@@ -57,7 +57,7 @@ switch:
   - platform: switcher_heater
     switches:
       your_device_name:
-        local_ip_addr: xxx-xxx-xxx-xxx
+        local_ip_addr: xxx.xxx.xxx.xxx
         phone_id: "xxxx"
         device_id: "xxxxxx"
         device_password: "xxxxxxxx"
